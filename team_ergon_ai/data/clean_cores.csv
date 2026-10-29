@@ -1,0 +1,4 @@
+well_name,core_no,formation,top_depth_m,bottom_depth_m,recovery_pct
+Well-Alpha,1,Upper Agbada,3100.0,3115.0,92.5
+Well-Alpha,2,Upper Agbada,3115.0,3130.5,100.0
+Well-Alpha,3,Middle Agbada,3130.5,3148.0,88.0

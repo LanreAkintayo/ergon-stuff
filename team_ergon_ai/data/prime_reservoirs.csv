@@ -1,0 +1,3 @@
+well_id,depth_ft,lithology,porosity,permeability_md
+Well-B,9150,Sandstone,0.25,480.0
+Well-E,9600,Sandstone,0.28,520.0

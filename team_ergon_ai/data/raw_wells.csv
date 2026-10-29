@@ -1,0 +1,6 @@
+well_id,depth_ft,lithology,porosity,permeability_md
+Well-A,8900,Shale,0.06,2.5
+Well-B,9150,Sandstone,0.25,480.0
+Well-C,9300,Sandstone,-999.25,310.0
+Well-D,9450,Limestone,0.12,45.0
+Well-E,9600,Sandstone,0.28,520.0

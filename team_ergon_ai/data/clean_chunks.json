@@ -1,0 +1,50 @@
+[
+    {
+        "chunk_id": "core_Well-Alpha_1",
+        "text": "Well-Alpha Core 1 (Field: Egina, Operator: TotalEnergies, Licence: OML-130) was retrieved between 3100.0m and 3115.0m (15.0m interval) in the Upper Agbada formation with a core recovery of 92.5%. Well status: Oil Producer.",
+        "metadata": {
+            "well_name": "Well-Alpha",
+            "core_no": 1,
+            "field": "Egina",
+            "operator": "TotalEnergies",
+            "licence": "OML-130",
+            "formation": "Upper Agbada",
+            "top_depth_m": 3100.0,
+            "bottom_depth_m": 3115.0,
+            "interval_length_m": 15.0,
+            "recovery_pct": 92.5
+        }
+    },
+    {
+        "chunk_id": "core_Well-Alpha_2",
+        "text": "Well-Alpha Core 2 (Field: Egina, Operator: TotalEnergies, Licence: OML-130) was retrieved between 3115.0m and 3130.5m (15.5m interval) in the Upper Agbada formation with a core recovery of 100.0%. Well status: Oil Producer.",
+        "metadata": {
+            "well_name": "Well-Alpha",
+            "core_no": 2,
+            "field": "Egina",
+            "operator": "TotalEnergies",
+            "licence": "OML-130",
+            "formation": "Upper Agbada",
+            "top_depth_m": 3115.0,
+            "bottom_depth_m": 3130.5,
+            "interval_length_m": 15.5,
+            "recovery_pct": 100.0
+        }
+    },
+    {
+        "chunk_id": "core_Well-Alpha_3",
+        "text": "Well-Alpha Core 3 (Field: Egina, Operator: TotalEnergies, Licence: OML-130) was retrieved between 3130.5m and 3148.0m (17.5m interval) in the Middle Agbada formation with a core recovery of 88.0%. Well status: Oil Producer.",
+        "metadata": {
+            "well_name": "Well-Alpha",
+            "core_no": 3,
+            "field": "Egina",
+            "operator": "TotalEnergies",
+            "licence": "OML-130",
+            "formation": "Middle Agbada",
+            "top_depth_m": 3130.5,
+            "bottom_depth_m": 3148.0,
+            "interval_length_m": 17.5,
+            "recovery_pct": 88.0
+        }
+    }
+]

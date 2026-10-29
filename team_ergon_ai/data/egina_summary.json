@@ -1,0 +1,16 @@
+{
+    "well_name": "Egina-Deep-02",
+    "block": "OML-130",
+    "water_depth_m": 1550,
+    "reservoir_targets": [
+        "Upper Miocene",
+        "Middle Miocene",
+        "Lower Turbidite"
+    ],
+    "metrics": {
+        "avg_porosity": 0.275,
+        "permeability_md": 620.0,
+        "hydrocarbon_type": "Light Crude"
+    },
+    "is_producing": true
+}

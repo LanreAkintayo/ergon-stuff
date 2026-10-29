@@ -1,0 +1,43 @@
+# Environments & Secrets (CRITICAL: Never commit API keys or passwords)
+.env
+.env.*
+*.env
+!.env.example
+!**/.env.example
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Large Binaries & Installers
+*.exe
+*.dll
+*.so
+*.dylib
+team_ergon_ai/OllamaSetup.exe
+
+# Vector Stores & Databases (ChromaDB / SQLite)
+chroma_db/
+*.sqlite3
+*.db
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.ipynb_checkpoints/

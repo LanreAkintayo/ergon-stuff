@@ -1,0 +1,3 @@
+well_name,licence,field,operator,water_depth_m,total_depth_m,status
+Well-Alpha,OML-130,Egina,TotalEnergies,1550.0,4500.0,Oil Producer
+Well-Bravo,OML-118,Bonga,Shell,1020.0,4120.0,Appraisal

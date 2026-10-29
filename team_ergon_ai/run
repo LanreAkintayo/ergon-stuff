@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+PYTHON="./venv/Scripts/python.exe"
+PIP="./venv/Scripts/pip.exe"
+
+case "$1" in
+  check)
+    "$PYTHON" src/verify_stack.py
+    ;;
+  requirements)
+    "$PIP" freeze > requirements.txt
+    echo "[+] requirements.txt successfully updated!"
+    ;;
+  *)
+    echo "===================================================="
+    echo "Team Ergon AI — Quick Runner"
+    echo "===================================================="
+    echo "Usage: ./run <command>"
+    echo "  ./run check        - Verify all libraries & stack status"
+    echo "  ./run requirements - Freeze dependencies"
+    echo "===================================================="
+    ;;
+esac

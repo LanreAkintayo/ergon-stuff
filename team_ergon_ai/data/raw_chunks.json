@@ -1,0 +1,26 @@
+[
+    {
+        "chunk_id": "c1",
+        "well_name": "Bonga-01",
+        "porosity": 0.22,
+        "text": "Clean sand at 9100 ft."
+    },
+    {
+        "chunk_id": "c2",
+        "well_name": "Bonga-02",
+        "porosity": "CORRUPT_VALUE",
+        "text": "Shale barrier."
+    },
+    {
+        "chunk_id": "c3",
+        "well_name": "Bonga-03",
+        "porosity": 0.28,
+        "text": "High pay zone with oil shows."
+    },
+    {
+        "chunk_id": "c4",
+        "well_name": "Bonga-04",
+        "porosity": 0.19,
+        "text": "Deep channel sand."
+    }
+]
